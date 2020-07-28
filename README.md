@@ -10,8 +10,12 @@
 
 <p align="center">
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://github.com/LiajuX">
     <img alt="Made by LiajuX" src="https://img.shields.io/badge/made%20by-LiajuX-%23F8952D">
+  </a>
+
+  <a>
+    <img alt="Code Quality" src="https://camo.githubusercontent.com/9009dd01de30097328e0bed42f2571a9d6588a4f/68747470733a2f2f6170692e636f646163792e636f6d2f70726f6a6563742f62616467652f47726164652f3666393930643732636139393434666262616236303335393539616338376631">
   </a>
 
   <a href="LICENSE" >
