@@ -23,7 +23,7 @@
 ## :bulb: Challenges
 
 <p>
-  These are the solutions of the module 1 challenges of LaunchBase, a bootcamp to learn how to develop complete wep applications.
+  These are the solutions of the module 1 challenges of LaunchBase, a bootcamp to learn how to develop complete web applications.
   In this module they taught the basic concepts of JavaScripts.
 </p>
 
