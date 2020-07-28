@@ -28,7 +28,7 @@
 
 <p>
   These are the solutions of the module 1 challenges of LaunchBase, a bootcamp to learn how to develop complete web applications.
-  In this module they taught the basic concepts of JavaScripts.
+  In this module they taught the basic concepts of JavaScript.
 </p>
 
 <h3 align="left">
